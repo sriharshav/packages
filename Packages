@@ -1,0 +1,15 @@
+Package: cpp-intro
+Version: 1.2
+Architecture: amd64
+Essential: no
+Maintainer: sriharsha.net
+Installed-Size: 1024
+Filename: ./cpp-intro-1.2_amd64.deb
+Size: 366616
+MD5sum: c3e5c7b93fee297cc3b62a697c58311a
+SHA1: beff59595ac89f59656a3ec395d3f9967cf1afc9
+SHA256: 51fb3d84bfac9bd5ed8d19d8312a2aef17836fe8ad4f91a9c752a409ac5867ce
+Section: custom
+Priority: optional
+Description: Introduction to CPP
+
