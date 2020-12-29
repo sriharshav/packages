@@ -1,0 +1,30 @@
+Package: cpp-intro
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: sriharsha.net
+Installed-Size: 1024
+Filename: ./cpp-intro-1.0_amd64.deb
+Size: 23404
+MD5sum: bcf5ebefb3866b45400528fb717c34bb
+SHA1: 5b7a497283385d5d7f3f9da9031454363652b224
+SHA256: 618aeabcd942c56f1ee1a0aa5a5051e55f25870b068fb13faf34f704564f786d
+Section: custom
+Priority: optional
+Description: Introduction to CPP
+
+Package: cpp-intro
+Version: 1.1
+Architecture: all
+Essential: no
+Maintainer: sriharsha.net
+Installed-Size: 1024
+Filename: ./cpp-intro-1.1_amd64.deb
+Size: 102560
+MD5sum: 6f036f7fafc7d7a610067a142f5d8542
+SHA1: ea1faa95cf3e9f3ba82647e9d72368171be0ab94
+SHA256: 81ac0131f89784032b1dcd45bb4c42c64898714e67552bf6c44cc501cf5f2772
+Section: custom
+Priority: optional
+Description: Introduction to CPP
+
