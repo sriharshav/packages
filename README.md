@@ -26,9 +26,9 @@ sudo apt install <pacakge>
 
 __Export and Import private key__
 
-    gpg --export-secret-keys "sriharsha.vardhan[at]gmaill[.]com" > sriharshas-private-key.asc
+    gpg --export-secret-keys "sriharsha.vardhan@gmail.com" > sriharshas-private-key.asc
     gpg --import sriharshas-private-key.asc
 
 __Create public key__
 
-    gpg --armor --export ""sriharsha.vardhan[at]gmaill[.]com"" > ./pkg/srv/KEY.gpg
+    gpg --armor --export "sriharsha.vardhan@gmail.com" > ./pkg/srv/KEY.gpg
