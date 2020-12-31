@@ -10,7 +10,7 @@
 
 sudo apt update
 
-sudo apt install <pacakge>
+sudo apt install cpp-intro
 
 ## Setup ##
 
